@@ -1,0 +1,41 @@
+.h-50 {
+    height: 50px;
+}
+
+.w-50 {
+    width: 50px;
+}
+
+textarea {
+    resize: none;
+    height: 60px;
+    width: 20rem;
+    font-size: 30px;
+}
+
+.mt-5 {
+    margin-top: 5rem;
+}
+
+.mr-2 {
+    margin-right: 2rem;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.addToDo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.margin-auto {
+    margin: auto;
+}

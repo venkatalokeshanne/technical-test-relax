@@ -1,0 +1,37 @@
+
+  
+  .draggable {
+    width: 90%;
+    background-color: white;
+    margin: 20px auto;
+    line-height: 5em;
+  }
+  
+  .container-drag {
+    display: flex;
+    margin-top: 100px;
+  }
+
+
+  .todo {
+    background-color: bisque;
+    text-align: center;
+  }
+
+  .completed {
+    background-color: green;
+    text-align: center;
+  }
+
+  .border {
+    border-style: groove;
+    border-radius: 10px;
+  }
+
+  .header {
+    padding-bottom: 10px;
+  }
+
+  .text-white {
+    color: white;
+  }

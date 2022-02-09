@@ -1,0 +1,28 @@
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding-top: 10px;
+}
+
+.lineThrough {
+    text-decoration: line-through;
+}
+
+
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  transform: scale(2);
+  padding: 10px;
+}
+
+span {
+    margin-left: 10px;
+}
